@@ -1,6 +1,4 @@
-[![MasterHead](https://w.wallhaven.cc/full/dp/wallhaven-dpo38l.jpg)](https://www.youtube.com/c/Mundodeideias)
-<h1 align="center">Lucas Bezerra</h1>
-<h3 align="center">Frontend Developer and Concept Artist</h3>
+<h3 align="center">Frontend Developer | User Experience Specialist</h3>
 
 
 
