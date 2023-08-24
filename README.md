@@ -1,4 +1,4 @@
-[![MasterHead](https://i.imgur.com/GpHI6fT.jpg)](https://www.youtube.com/c/Mundodeideias)
+[![MasterHead](https://w.wallhaven.cc/full/dp/wallhaven-dpo38l.jpg)](https://www.youtube.com/c/Mundodeideias)
 <h1 align="center">Lucas Bezerra</h1>
 <h3 align="center">Frontend Developer and Concept Artist</h3>
 
